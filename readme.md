@@ -36,6 +36,10 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 2. Truth, Health, Wealth
 3. Learn, Burn, Earn
 
+## Longevity
+
+- [Lifespan](https://lifespanbook.com/) - Book about why we age and why we don't have to.
+
 <!-- END CONTENT -->
 
 ## Follow
