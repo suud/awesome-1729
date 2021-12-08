@@ -11,7 +11,7 @@ A curated list of awesome books, articles, tutorials, podcasts and other resourc
 
 <!-- image -->
 
-<a href="https://1729.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://1729.com/summary" target="_blank" rel="noopener noreferrer">
   <img src="images/oneseventwonine_400x400.jpg" />
 </a>
 
