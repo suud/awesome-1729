@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-A curated list of awesome articles, tutorials, podcasts and other resources related to the [1729 network state](https://1729.com/).
+A curated list of awesome articles, tutorials, podcasts and other resources about the 1729 network state.
 
 <!-- image -->
 
