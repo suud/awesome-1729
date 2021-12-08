@@ -1,28 +1,56 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and [awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
+# Awesome 1729 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/suud/awesome-1729/actions/workflows/lint.yaml/badge.svg)](https://github.com/suud/awesome-1729/actions/workflows/lint.yaml)
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image. uncomment the img code.
-   - update `TODO_YOUR_REPO_NAME_HERE` in the "contributors" link and uncomment the line
-3. edit `code_of_conduct.md`
-   - update `TODO_INSERT_YOUR_EMAIL_HERE`
-4. edit `contributing.md`
-   - update `TODO_YOUR_REPO_NAME_HERE`
-5. choose a CI template
-   - GitHub Action: move config folver from `repo-root/ci/.github/` to `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
-6. delete this file
-7. rename `readme-template.md` file to `readme.md`
-8. if using GitHub Actions, rename `readme-template.md` to `readme.md` in the GitHub Workflow file `.github/workflows/lint.yaml`
+<!-- subtitle -->
+
+A curated list of awesome articles, tutorials, podcasts and other resources related to the [1729 network state](https://1729.com/).
+
+<!-- image -->
+
+<!-- <a href="https://1729.com/" target="_blank" rel="noopener noreferrer">
+  <img src="images/oneseventwonine_400x400.jpg" />
+</a> -->
+
+<!-- description -->
+
+A network state is a social network with an agreed-upon leader, an integrated cryptocurrency, a definite purpose, a sense of national consciousness, and a plan to crowdfund territory.
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [Values](#values)
+- [Follow](#follow)
+
+<!-- CONTENT -->
+
+## Values
+
+1. Win and Help Win
+2. Truth, Health, Wealth
+3. Learn, Burn, Earn
+
+<!-- END CONTENT -->
+
+## Follow
+
+<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+
+[Website](https://1729.com/)
+[Twitter](https://twitter.com/oneseventwonine)
+[GitHub](https://github.com/1729)
+[YouTube](https://www.youtube.com/channel/UCG7ZXETdal8d4k9x6p9vYHg)
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+<!-- [Thanks goes to these contributors](https://github.com/suud/awesome-1729/graphs/contributors)! -->
