@@ -26,6 +26,7 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 ## Contents
 
 - [Values](#values)
+- [Longevity](#longevity)
 - [Follow](#follow)
 
 <!-- CONTENT -->
