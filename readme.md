@@ -7,13 +7,13 @@
 
 <!-- subtitle -->
 
-A curated list of awesome articles, tutorials, podcasts and other resources about the 1729 network state.
+A curated list of awesome books, articles, tutorials, podcasts and other resources about the 1729 network state.
 
 <!-- image -->
 
-<!-- <a href="https://1729.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://1729.com/" target="_blank" rel="noopener noreferrer">
   <img src="images/oneseventwonine_400x400.jpg" />
-</a> -->
+</a>
 
 <!-- description -->
 
@@ -53,4 +53,4 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/suud/awesome-1729/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/suud/awesome-1729/graphs/contributors)!
