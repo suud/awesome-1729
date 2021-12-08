@@ -3,21 +3,21 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+# Awesome 1729 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/suud/awesome-1729/actions/workflows/lint.yaml/badge.svg)](https://github.com/suud/awesome-1729/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A curated list of awesome articles, tutorials, podcasts and other resources related to the [1729 network state](https://1729.com/).
 
 <!-- image -->
 
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+<!-- <a href="https://1729.com/" target="_blank" rel="noopener noreferrer">
+  <img src="images/oneseventwonine_400x400.jpg" />
 </a> -->
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+A network state is a social network with an agreed-upon leader, an integrated cryptocurrency, a definite purpose, a sense of national consciousness, and a plan to crowdfund territory.
 
 </div>
 
@@ -25,19 +25,16 @@ A one line description of the product or tool. See [awesome-firebase](https://gi
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Values](#values)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Values
 
-- [Apple](https://apple.com) - Apple as a placeholder.
-
-## Section 1
-
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+1. Win and Help Win
+2. Truth, Health, Wealth
+3. Learn, Burn, Earn
 
 <!-- END CONTENT -->
 
@@ -45,7 +42,10 @@ A one line description of the product or tool. See [awesome-firebase](https://gi
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-Who else should we be following!?
+[Website](https://1729.com/)
+[Twitter](https://twitter.com/oneseventwonine)
+[GitHub](https://github.com/1729)
+[YouTube](https://www.youtube.com/channel/UCG7ZXETdal8d4k9x6p9vYHg)
 
 ## Contributing
 
@@ -53,4 +53,4 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+<!-- [Thanks goes to these contributors](https://github.com/suud/awesome-1729/graphs/contributors)! -->
