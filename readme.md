@@ -39,6 +39,7 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 ## Longevity
 
+- [The Purpose of Technology](https://balajis.com/the-purpose-of-technology/) - Article about why the ultimate purpose of technology is to eliminate mortality.
 - [Lifespan](https://lifespanbook.com/) - Book about why we age and why we don't have to.
 
 <!-- END CONTENT -->
