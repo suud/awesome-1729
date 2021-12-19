@@ -48,10 +48,10 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-[Website](https://1729.com/)
-[Twitter](https://twitter.com/oneseventwonine)
-[GitHub](https://github.com/1729)
-[YouTube](https://www.youtube.com/channel/UCG7ZXETdal8d4k9x6p9vYHg)
+- [Website](https://1729.com/)
+- [Twitter](https://twitter.com/oneseventwonine)
+- [GitHub](https://github.com/1729)
+- [YouTube](https://www.youtube.com/channel/UCG7ZXETdal8d4k9x6p9vYHg)
 
 ## Contributing
 
