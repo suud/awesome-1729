@@ -11,7 +11,7 @@ A curated list of awesome books, articles, tutorials, podcasts and other resourc
 
 <!-- image -->
 
-<a href="https://1729.com/summary" target="_blank" rel="noopener noreferrer">
+<a href="http://1729.com/summary" target="_blank" rel="noopener noreferrer">
   <img src="images/oneseventwonine_400x400.jpg" />
 </a>
 
@@ -25,22 +25,45 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 ## Contents
 
-- [Values](#values)
+- [1729 Values](#1729-values)
+- [The Network State](#the-network-state)
 - [Longevity](#longevity)
+- [Centralized East - Decentralized West](#centralized-east---decentralized-west)
+- [The Ledger of Record](#the-ledger-of-record)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Values
+## 1729 Values
 
 1. Win and Help Win
 2. Truth, Health, Wealth
 3. Learn, Burn, Earn
 
+## The Network State
+- [Summary](https://1729.com/summary) - Summary of the key concepts behind the Network State.
+- [The Network State](https://1729.com/the-network-state) - Article expaining the key concepts behind the Network State.
+
 ## Longevity
 
 - [The Purpose of Technology](https://balajis.com/the-purpose-of-technology/) - Article about why the ultimate purpose of technology is to eliminate mortality.
 - [Lifespan](https://lifespanbook.com/) - Book about why we age and why we don't have to.
+- [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) - Fable about moral reasons for longevity reserach.
+- [Vincent Weisser: Longevity](https://www.vincentweisser.com/longevity) - List of resources about longevity.
+- [Vincent Weisser: Biohacking](https://www.vincentweisser.com/biohacking) - List of resources about biohacking.
+
+## Centralized East - Decentralized West
+
+- [American Anarchy](https://bariweiss.substack.com/p/how-we-changed-our-minds-in-2021) - Article pointing out trends towards an American anarchy.
+- [Chinese Control](https://twitter.com/balajis/status/1456136616024494081) - Tweet foreseeing a scenario of American anarchy and Chinese control.
+
+## The Ledger of Record
+
+- [We Are Building the Ledger of Record](https://twitter.com/balajis/status/1459140902144729088) - Twitter Thread by [@balajis](https://twitter.com/balajis).
+- [The Ledger of Records](https://www.youtube.com/watch?v=Cwbbxb987vE) - Talk about creating sources of definitive truth with blockchain oracles.
+- [The Ledger of Records](https://1729.com/slides/ledger-of-record.pdf) - Slides of the second 1729 lecture.
+- [Algorithmic Fact Checking](https://1729.com/slides/algorithmic-fact-checking.pdf) - Slides of the 7th 1729 lecture.
+- [The Gray Lady Winked](https://www.amazon.com/Gray-Lady-Winked-Misreporting-Fabrications/dp/1736703307) - Book that analyzes how the New York Times impacts policy, politics and history.
 
 <!-- END CONTENT -->
 
