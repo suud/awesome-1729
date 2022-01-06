@@ -2,13 +2,13 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
 
-## PRs
+## Not sure?
 
-ALWAYS create a new branch with your proposed changes. Thank you!
+- [Start a discussion](https://github.com/suud/awesome-1729/discussions/new) if you have questions or suggestions.
 
-## Adding an new Item
+## Adding a new Item
 
-- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/suud/awesome-1729/issues/new) to start a discussion about any new sections.
+- Try to fit your item into an existing sections.
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.
@@ -16,3 +16,7 @@ ALWAYS create a new branch with your proposed changes. Thank you!
   ```
   - [item name](https link) - Description beginning with capital, ending in period.
   ```
+
+## Reporting incorrect or outdated information 
+
+- [Open an issue](https://github.com/suud/awesome-1729/issues/new)
