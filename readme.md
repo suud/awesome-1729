@@ -57,6 +57,24 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 - [Algorithmic Fact Checking](https://1729.com/slides/algorithmic-fact-checking.pdf) - Slides of the 7th 1729 lecture.
 - [The Gray Lady Winked](https://www.amazon.com/Gray-Lady-Winked-Misreporting-Fabrications/dp/1736703307) - Book that analyzes how the New York Times impacts policy, politics and history.
 
+## Regulation is Information
+
+- [Regulation is Information](https://1729-public.s3.amazonaws.com/regulation-is-information.pdf) - Slides of the 6th 1729 lecture.
+- [Reputation and Power](https://press.princeton.edu/books/paperback/9780691141800/reputation-and-power) - Book describing how the FDA became the world's most powerful regulatory agency.
+
+## Crowdchoice
+
+- [The Start of Startup Cities](https://1729.com/miami) - Article describing the rising trend of Startup Cities.
+- [Silicon Valley's Ultimate Exit](https://www.youtube.com/watch?v=cOubCHLXT6A) - Talk by Balaji Srinivasan about Exit at Y Combinator Startup School in 2013.
+- [Exit, Voice and Loyalty](https://www.amazon.com/Exit-Voice-Loyalty-Responses-Organizations/dp/0674276604) - Book showing different ways of reacting to deterioration.
+- [Software Is Reorganizing the World](https://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/) - Article about online communities becoming physical.
+- [The Network Union](https://1729.com/network-union) - Article about the antecedent of the Network State.
+
+## Optimalism
+
+- [Optimalism I](https://1729-public.s3.amazonaws.com/optimalism.pdf) - Slides of the 3rd 1729 lecture.
+- [Optimalism II](https://1729-public.s3.amazonaws.com/optimalism-part-2.pdf) - Slides of the 5th 1729 lecture.
+
 ## Longevity
 
 - [The Purpose of Technology](https://balajis.com/the-purpose-of-technology/) - Article about why the ultimate purpose of technology is to eliminate mortality.
