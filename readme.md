@@ -27,9 +27,9 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 - [1729 Values](#1729-values)
 - [The Network State](#the-network-state)
-- [Longevity](#longevity)
 - [Centralized East - Decentralized West](#centralized-east---decentralized-west)
 - [The Ledger of Record](#the-ledger-of-record)
+- [Longevity](#longevity)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -44,15 +44,6 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 - [Summary](https://1729.com/summary) - Summary of the key concepts behind the Network State.
 - [The Network State](https://1729.com/the-network-state) - Article expaining the key concepts behind the Network State.
 
-## Longevity
-
-- [The Purpose of Technology](https://balajis.com/the-purpose-of-technology/) - Article about why the ultimate purpose of technology is to eliminate mortality.
-- [Lifespan](https://lifespanbook.com/) - Book about why we age and why we don't have to.
-- [Lifespan with Dr. David Sinclair](https://open.spotify.com/show/3PkkSdQE8DfeiKvSk1Mg1J) - Podcast discussing why we age and interventions for slowing and reversing aging.
-- [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) - Fable about moral reasons for longevity reserach.
-- [Vincent Weisser: Longevity](https://www.vincentweisser.com/longevity) - List of resources about longevity.
-- [Vincent Weisser: Biohacking](https://www.vincentweisser.com/biohacking) - List of resources about biohacking.
-
 ## Centralized East - Decentralized West
 
 - [American Anarchy](https://bariweiss.substack.com/p/how-we-changed-our-minds-in-2021) - Article pointing out trends towards an American anarchy.
@@ -65,6 +56,15 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 - [The Ledger of Records](https://1729.com/slides/ledger-of-record.pdf) - Slides of the second 1729 lecture.
 - [Algorithmic Fact Checking](https://1729.com/slides/algorithmic-fact-checking.pdf) - Slides of the 7th 1729 lecture.
 - [The Gray Lady Winked](https://www.amazon.com/Gray-Lady-Winked-Misreporting-Fabrications/dp/1736703307) - Book that analyzes how the New York Times impacts policy, politics and history.
+
+## Longevity
+
+- [The Purpose of Technology](https://balajis.com/the-purpose-of-technology/) - Article about why the ultimate purpose of technology is to eliminate mortality.
+- [Lifespan](https://lifespanbook.com/) - Book about why we age and why we don't have to.
+- [Lifespan with Dr. David Sinclair](https://open.spotify.com/show/3PkkSdQE8DfeiKvSk1Mg1J) - Podcast discussing why we age and interventions for slowing and reversing aging.
+- [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) - Fable about moral reasons for longevity reserach.
+- [Vincent Weisser: Longevity](https://www.vincentweisser.com/longevity) - List of resources about longevity.
+- [Vincent Weisser: Biohacking](https://www.vincentweisser.com/biohacking) - List of resources about biohacking.
 
 <!-- END CONTENT -->
 
