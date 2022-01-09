@@ -48,6 +48,7 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 - [The Purpose of Technology](https://balajis.com/the-purpose-of-technology/) - Article about why the ultimate purpose of technology is to eliminate mortality.
 - [Lifespan](https://lifespanbook.com/) - Book about why we age and why we don't have to.
+- [Lifespan with Dr. David Sinclair](https://open.spotify.com/show/3PkkSdQE8DfeiKvSk1Mg1J) - Podcast discussing why we age and interventions for slowing and reversing aging.
 - [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html) - Fable about moral reasons for longevity reserach.
 - [Vincent Weisser: Longevity](https://www.vincentweisser.com/longevity) - List of resources about longevity.
 - [Vincent Weisser: Biohacking](https://www.vincentweisser.com/biohacking) - List of resources about biohacking.
