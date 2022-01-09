@@ -29,6 +29,9 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 - [The Network State](#the-network-state)
 - [Centralized East - Decentralized West](#centralized-east---decentralized-west)
 - [The Ledger of Record](#the-ledger-of-record)
+- [Regulation is Information](#regulation-is-information)
+- [Crowdchoice](#crowdchoice)
+- [Optimalism](#optimalism)
 - [Longevity](#longevity)
 - [Follow](#follow)
 
