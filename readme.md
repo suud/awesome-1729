@@ -58,7 +58,7 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 - [The Ledger of Records](https://www.youtube.com/watch?v=Cwbbxb987vE) - Talk about creating sources of definitive truth with blockchain oracles.
 - [The Ledger of Records](https://1729.com/slides/ledger-of-record.pdf) - Slides of the second 1729 lecture.
 - [Algorithmic Fact Checking](https://1729.com/slides/algorithmic-fact-checking.pdf) - Slides of the 7th 1729 lecture.
-- [The Gray Lady Winked](https://www.amazon.com/Gray-Lady-Winked-Misreporting-Fabrications/dp/1736703307) - Book that analyzes how the New York Times impacts policy, politics and history.
+- [The Gray Lady Winked](https://www.goodreads.com/book/show/57844169-the-gray-lady-winked) - Book that analyzes how the New York Times impacts policy, politics and history.
 
 ## Regulation is Information
 
@@ -69,7 +69,7 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 - [The Start of Startup Cities](https://1729.com/miami) - Article describing the rising trend of Startup Cities.
 - [Silicon Valley's Ultimate Exit](https://www.youtube.com/watch?v=cOubCHLXT6A) - Talk by Balaji Srinivasan about Exit at Y Combinator Startup School in 2013.
-- [Exit, Voice and Loyalty](https://www.amazon.com/Exit-Voice-Loyalty-Responses-Organizations/dp/0674276604) - Book showing different ways of reacting to deterioration.
+- [Exit, Voice and Loyalty](https://www.goodreads.com/en/book/show/149033.Exit_Voice_and_Loyalty) - Book showing different ways of reacting to deterioration.
 - [Software Is Reorganizing the World](https://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/) - Article about online communities becoming physical.
 - [The Network Union](https://1729.com/network-union) - Article about the antecedent of the Network State.
 
