@@ -58,7 +58,7 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 ## The Ledger of Record
 
-- [We Are Building the Ledger of Record](https://twitter.com/balajis/status/1459140902144729088) - Twitter Thread by [@balajis](https://twitter.com/balajis).
+- [We Are Building the Ledger of Record](https://twitter.com/balajis/status/1459140902144729088) - Twitter Thread.
 - [The Ledger of Records](https://www.youtube.com/watch?v=Cwbbxb987vE) - Talk about creating sources of definitive truth with blockchain oracles.
 - [The Ledger of Records](https://1729.com/slides/ledger-of-record.pdf) - Slides of the second 1729 lecture.
 - [Algorithmic Fact Checking](https://1729.com/slides/algorithmic-fact-checking.pdf) - Slides of the 7th 1729 lecture.
@@ -90,12 +90,12 @@ A network state is a social network with an agreed-upon leader, an integrated cr
 
 ## A City in the Cloud
 
-- [A City in the Cloud](https://twitter.com/balajis/status/1269178671086006273) - Tweet by [@balajis](https://twitter) about how to start a new city.
+- [A City in the Cloud](https://twitter.com/balajis/status/1269178671086006273) - Tweet about how to start a new city.
 
 ## Decentralized Defense
 
-- [On-Chain or Insecure](https://twitter.com/balajis/status/1471038225720365057) - Twitter Thread by [@balajis](https://twitter.com/balajis).
-- [A Turkish Drone with a Machine Gun](https://twitter.com/balajis/status/1461802927039913994) - Tweet by [@balajis](https://twitter) about Songar.
+- [On-Chain or Insecure](https://twitter.com/balajis/status/1471038225720365057) - Twitter Thread.
+- [A Turkish Drone with a Machine Gun](https://twitter.com/balajis/status/1461802927039913994) - Tweet about Songar.
 
 ## Technology Tree
 
